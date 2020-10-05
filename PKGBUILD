@@ -5,7 +5,7 @@ pkgdesc="json searching"
 arch=("any")
 makedepends=('python' 'python-setuptools')
 url="https://github.com/YugantM/tools_communication"
-_dir="select"
+_dir="target"
 source=("${_dir}"::"git+https://github.com/YugantM/tools_communication.git")
 md5sums=('SKIP')
 
