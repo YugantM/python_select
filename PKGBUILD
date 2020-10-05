@@ -1,4 +1,4 @@
-pkgname=python-select
+pkgname=python-target
 pkgver=1.1
 pkgrel=1
 pkgdesc="json searching"
